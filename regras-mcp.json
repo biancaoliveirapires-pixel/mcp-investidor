@@ -1,0 +1,8 @@
+{
+  "investidor": "Projeto de Pagamentos",
+  "regras": [
+    "Não gastar muita banda - código leve, sem imagens pesadas",
+    "Estar dentro da LGPD - nunca salvar cartão sem criptografia",
+    "Todo clique em vendas deve gerar um relatório"
+  ]
+}
